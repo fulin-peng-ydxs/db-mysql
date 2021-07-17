@@ -1,7 +1,7 @@
 # MySQL
 
 #### Description
-mysql理论和实际开发经验
+mysql理论指导和实际开发
 
 #### Software Architecture
 Software architecture description
